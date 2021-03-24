@@ -7,8 +7,8 @@ description: Django & Vuejs
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpg
+external-image: true
+picture: https://avatars.githubusercontent.com/u/52128056?s=460&u=bc5f185c7561fb019fc825551e4dedf0b4a3e2dd&v=4
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -57,7 +57,7 @@ authors:
     name: Ufuk Çağatay Alkış
     bio: Freelancer Web Developer
     external-image: false
-    picture: assets/images/profile.jpg
+    picture: https://avatars.githubusercontent.com/u/52128056?s=460&u=bc5f185c7561fb019fc825551e4dedf0b4a3e2dd&v=4
     twitter: 
 
 # do you want a larger site? change the option below
@@ -77,7 +77,7 @@ pagination:
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: false
+about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
