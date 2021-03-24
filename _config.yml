@@ -34,8 +34,8 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: myfacebook
+#twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
@@ -47,7 +47,7 @@ github: ufukcty
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+#medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: ufukctty@gmail.com
@@ -58,7 +58,6 @@ authors:
     bio: Freelancer Web Developer
     external-image: false
     picture: https://avatars.githubusercontent.com/u/52128056?s=460&u=bc5f185c7561fb019fc825551e4dedf0b4a3e2dd&v=4
-    twitter: 
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
