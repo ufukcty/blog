@@ -16,7 +16,7 @@ resume: false
 resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://ufukcty.github.io/home
+url: https://ufukcty.github.io/blog
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -35,8 +35,8 @@ disqus:
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-#twitter: mytwitter
-# instagram: myinstagram
+twitter: ufukcty
+instagram: 
 # pinterest: mypinterest
 linkedin: ufukcty
 # youtube: myyoutube
